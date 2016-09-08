@@ -1,0 +1,1 @@
+<?php $config["database"] = "posnic"; $config["host"]= "localhost";$config["username"]= "posnic"; $config["password"]= "Welcome2016";?>
